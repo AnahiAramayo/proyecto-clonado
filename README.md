@@ -1,2 +1,2 @@
-# proyecto01
+# proyecto-clonado
 Ejercicio básico de un proyecto git
